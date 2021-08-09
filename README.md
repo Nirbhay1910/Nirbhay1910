@@ -1,16 +1,38 @@
-### Hi there 👋
-
-<!--
-**Nirbhay1910/Nirbhay1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Hi there! 👋🤓</h2>
+<p> I am <b> Nirbhay Jain</b>, a third year student at Bharati Vidyapeeth's College of Engineering (Information Technology).
+<h2>⚡ SKILLS</h2>
+<ul>
+  <li>😋 React.js</li>
+  <li>🍀 Mongo DB</li>
+  <li>🔥 Firebase</li>
+  <li>🍃 Node.js</li>
+  <li>🏃‍♀️ C++</li>
+</ul>
+<h2>Experience</h2>
+<ul>
+  <li>
+    <h3>🌐 Full stack developer (MERN stack) at <a href="https://www.vyorius.com/">Vyorius</a> (Internship)</h3>
+    <h5>June 2021 - August 2021</h5>
+    <ul>
+      <li> ⚒ Worked closely with other developers to write optimized APIs and reusable react codes.</li>
+     </ul>
+  </li>
+      <li>
+        <h3>👩‍💻 Technical Executive at Campus Blocks BVCOE</h3>
+        <h5>Present</h5>
+        <ul>
+          <li>👨‍🏫 Conducted workshops on Basics of C++ for first year students</li>
+        </ul>
+      </li>
+</ul>
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>🥉 3rd position in <b>WIEHACK 3.0</b> an international level hackathon</li>  
+  <li>🥉 3rd position in <b>Prepbytes Omega Fest</b> hackathon</li>  
+  <li>💻 3 star 🌟 coder at codechef</li>  
+</ul>
+<h2>🤙 Contact</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/nirbhay-jain-041a1b191/">Linkedin</a></li>
+  <li><a href="mailto: nirbhay1910@gmail.com">Email</a></li>
+  </ul>
