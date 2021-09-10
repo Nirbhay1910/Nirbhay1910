@@ -11,13 +11,17 @@
 <h2>Experience</h2>
 <ul>
   <li>
+      <h3> 📚 Teaching Assistant at Coding Ninjas</h3>
+      <h5>September 2021 - January 2022</h5>
+  </li>
+  <li>
     <h3>🌐 Full stack developer (MERN stack) at <a href="https://www.vyorius.com/">Vyorius</a> (Internship)</h3>
     <h5>June 2021 - August 2021</h5>
     <ul>
       <li> ⚒ Worked closely with other developers to write optimized APIs and reusable react codes.</li>
      </ul>
   </li>
-      <li>
+  <li>
         <h3>👩‍💻 Technical Executive at Campus Blocks BVCOE</h3>
         <h5>Present</h5>
         <ul>
@@ -29,7 +33,6 @@
 <ul>
   <li>🥉 3rd position in <b>WIEHACK 3.0</b> an international level hackathon</li>  
   <li>🥉 3rd position in <b>Prepbytes Omega Fest</b> hackathon</li>  
-  <li>💻 3 star 🌟 coder at codechef</li>  
 </ul>
 <h2>🤙 Contact</h2>
 <ul>
