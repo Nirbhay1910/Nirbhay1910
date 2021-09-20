@@ -22,7 +22,7 @@
      </ul>
   </li>
   <li>
-        <h3>👩‍💻 Technical Executive at Campus Blocks BVCOE</h3>
+        <h3>👩‍💻 Technical Head at Campus Blocks BVCOE</h3>
         <h5>Present</h5>
         <ul>
           <li>👨‍🏫 Conducted workshops on Basics of C++ for first year students</li>
