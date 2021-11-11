@@ -12,7 +12,10 @@
 <ul>
   <li>
       <h3> 📚 Teaching Assistant at Coding Ninjas</h3>
-      <h5>September 2021 - January 2022</h5>
+      <h5>September 2021 - October 2021</h5>
+    <ul>
+      <li> 👨‍🏫 solved more than 120 doubts of students in competitive programming.</li>
+     </ul>
   </li>
   <li>
     <h3>🌐 Full stack developer (MERN stack) at <a href="https://www.vyorius.com/">Vyorius</a> (Internship)</h3>
@@ -31,6 +34,7 @@
 </ul>
 <h2>🏆 Achievements</h2>
 <ul>
+  <li>🏆 Completed hacktoberfest 2021</li>
   <li>🥉 3rd position in <b>WIEHACK 3.0</b> an international level hackathon</li>  
   <li>🥉 3rd position in <b>Prepbytes Omega Fest</b> hackathon</li>  
 </ul>
