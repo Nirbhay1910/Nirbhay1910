@@ -1,5 +1,5 @@
 <h2> Hi there! 👋🤓</h2>
-<p> I am <b> Nirbhay Jain</b>, a third year student at Bharati Vidyapeeth's College of Engineering (Information Technology).
+<p> I am <b> Nirbhay Jain</b>. Currently working as SDE-1 at Saaslabs. I have done my Btech in IT from Bharati Vidyapeeth's College of Engineering with CGPA of 9.4
 <h2>⚡ SKILLS</h2>
 <ul>
   <li>😋 React.js</li>
@@ -10,6 +10,23 @@
 </ul>
 <h2>Experience</h2>
 <ul>
+   <li>
+      <h3>SDE-1 at SaasLabs</h3>
+      <h5>July 2023 - Present</h5>
+    <ul>
+      <li>Orchestrated a transformative shift by rewiring and elevating a legacy PHP monolithic codebase and APIs to a cutting-edge microservices architecture using NestJs and TypeScript </li>
+<li>Spearheaded the implementation of ClickHouse, a columnar database management system, strategically enhancing performance in targeted areas within the JustCall platform</li>
+<li>Implemented PubSub architecture and Bull queue system to synchronize data between MySQL and ClickHouse databases, optimizing data consistency and reliability.</li>
+     </ul>
+  </li>
+   <li>
+      <h3>Dot Net Developer Intern at Grapecity India</h3>
+      <h5>July 2022 - July 2022</h5>
+    <ul>
+      <li>This is an 80 hrs internship where I worked on making robust and scalable calculator engine using C#
+and .Net framework</li>
+     </ul>
+  </li>
   <li>
       <h3> 📚 Teaching Assistant at Coding Ninjas</h3>
       <h5>September 2021 - October 2021</h5>
